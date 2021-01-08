@@ -1,4 +1,3 @@
-// House Class Template Alexander Rollison 1001681800
 #include <iostream>
 #include <mutex>
 #include <chrono>
@@ -13,8 +12,6 @@
 ToothbrushHouse::ToothbrushHouse(std::string Name, std::map<int,std::string>CandyRanking)
 	:House(Name,CandyRanking)
 {
-	//houseName = Name;
-	//CandyRankingMap = CandyRanking;
 }
 
 ToothbrushHouse::~ToothbrushHouse()
