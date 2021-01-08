@@ -1,4 +1,3 @@
-//Alexander Rollison 1001681800
 #ifndef TOOTHBRUSH_HOUSE_
 #define TOOTHBRUSH_HOUSE_
 
