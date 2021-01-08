@@ -1,4 +1,3 @@
-// Treat or Tricker class header file template Alexander Rollison 1001681800
 #ifndef _TOT_H
 #define _TOT_H
 /* add the necessary includes */
