@@ -1,4 +1,3 @@
-// House class header file template Alexander Rollison 1001681800
 #ifndef _HOUSE_
 #define _HOUSE_
 
