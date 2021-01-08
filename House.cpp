@@ -1,4 +1,3 @@
-// House Class Template Alexander Rollison 1001681800
 #include <iostream>
 #include <mutex>
 #include <thread>
@@ -16,7 +15,3 @@ House::House(std::string Name, std::map<int,std::string>CandyRanking)
 House::~House()
 {
 }
-
-//std::string House::ringDoorbell(std::ostringstream &path)
-//{
-//}
