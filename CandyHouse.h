@@ -1,4 +1,3 @@
-//Alexander Rollison 1001681800
 #ifndef CANDY_HOUSE_
 #define CANDY_HOUSE_
 
