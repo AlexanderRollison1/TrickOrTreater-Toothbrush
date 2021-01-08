@@ -1,5 +1,3 @@
-// Coding Assignment 5 Template Alexander Rollison 1001681800
-
 /* Add the needed includes */
 #include <iostream>
 #include <mutex>
