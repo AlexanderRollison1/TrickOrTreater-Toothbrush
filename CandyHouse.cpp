@@ -1,4 +1,3 @@
-//Alexander Rollison 1001681800
 #include <iostream>
 #include <mutex>
 #include <chrono>
